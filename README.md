@@ -1,10 +1,11 @@
 <!DOCTYPE html>
-<html>
-<body style="font-family: 'Roboto', sans-serif; font-size: 16px; color: #333; margin: 20px;">
-  <h2 style="font-size: 28px; margin: 0;">Hi, I'm Hyunwook Kim! 😄</h2>
+
+
+<h2 style="font-size: 28px; margin: 0;">Hi, I'm Hyunwook Kim! 😄</h2>
 <p style="font-size: 18px; margin: 0;"><strong><em>Student Data Engineer at the <a style="color: #007BFF; text-decoration: none;">University of South Carolina</a> </strong></p>
 
-  <div id="header" style="text-align: center; margin: 20px 0;">
+  
+  <div id="header" div align="center" style="text-align: center; margin: 20px 0;">
     <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300"/>
   </div>
 
