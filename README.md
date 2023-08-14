@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
-<h2 style="font-size: 28px; margin: 0;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Hi, I'm Hyunwook Kim! 😄</h2>
-<p style="font-size: 18px; margin: 0;"><strong><em>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspStudent Data Engineer at the <a style="color: #007BFF; text-decoration: none;">University of South Carolina</a> </strong></p>
+<h2 style="font-size: 28px; margin: 0;"> <em> Hi, I'm Hyunwook Kim! 😄</h2>
+<p style="font-size: 18px; margin: 0;"><strong><em> Data Engineer at the <a style="color: #007BFF; text-decoration: none;">University of South Carolina</a> </strong></p>
   
   <div id="header" div align="center" style="text-align: center; margin: 20px 0;">
     <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300"/>
