@@ -10,8 +10,8 @@
 
 <h3 style="font-size: 24px; margin: 10px 0;">About Me:</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li style="font-size: 18px; margin-bottom: 5px;">🌱&nbsp;GRIT Data Engineer who recognizes the value of passion and perseverance for long-term goals</li>
-  <li style="font-size: 18px; margin-bottom: 5px;">🔗&nbsp;Developer who values mutual growth and collaboration</li>
+  <li style="font-size: 18px; margin-bottom: 5px;">🌱➔🌳&nbsp;GRIT Data Engineer who recognizes the value of passion and perseverance for long-term goals</li>
+  <li style="font-size: 18px; margin-bottom: 5px;">🔗➜🚀&nbsp;Developer who values mutual growth and collaboration</li>
 </ul>
 
 <h3 style="font-size: 24px; margin: 10px 0;">Interests:</h3>
