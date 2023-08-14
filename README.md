@@ -1,27 +1,26 @@
 <!DOCTYPE html>
 
-
-<h2 style="font-size: 28px; margin: 0;">Hi, I'm Hyunwook Kim! 😄</h2>
-<p style="font-size: 18px; margin: 0;"><strong><em>Student Data Engineer at the <a style="color: #007BFF; text-decoration: none;">University of South Carolina</a> </strong></p>
-
+<h2 style="font-size: 28px; margin: 0;">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Hi, I'm Hyunwook Kim! 😄</h2>
+<p style="font-size: 18px; margin: 0;"><strong><em>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspStudent Data Engineer at the <a style="color: #007BFF; text-decoration: none;">University of South Carolina</a> </strong></p>
   
   <div id="header" div align="center" style="text-align: center; margin: 20px 0;">
     <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300"/>
   </div>
 
 
-  <h3 style="font-size: 24px; margin: 10px 0;">About Me:</h3>
-    <li style="font-size: 18px; margin-bottom: 5px;">🌱➔🌳&nbsp GRIT Data Engineer who recognizes the value of passion and perseverance for long-term goals</li>
-    <li style="font-size: 18px; margin-bottom: 5px;">🔗➜🚀&nbsp Developer who values mutual growth and collaboration</li>
+<h3 style="font-size: 24px; margin: 10px 0;">About Me:</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="font-size: 18px; margin-bottom: 5px;">🌱&nbsp;GRIT Data Engineer who recognizes the value of passion and perseverance for long-term goals</li>
+  <li style="font-size: 18px; margin-bottom: 5px;">🔗&nbsp;Developer who values mutual growth and collaboration</li>
+</ul>
 
-  <p style="font-size: 18px; margin: 0;"GRIT Data Engineer who recognizes the value of passion and perseverance for long-term and meaningful goals.</p>
+<h3 style="font-size: 24px; margin: 10px 0;">Interests:</h3>
+<ul style="list-style-type: none; padding-left: 0;">
+  <li style="font-size: 18px; margin-bottom: 5px;">🗄️&nbsp;Data Engineering</li>
+  <li style="font-size: 18px; margin-bottom: 5px;">📈&nbsp;Data Science</li>
+  <li style="font-size: 18px; margin-bottom: 5px;">📚&nbsp;Digital Humanities</li>
+</ul>
 
-  <h3 style="font-size: 24px; margin: 10px 0;">Interests:</h3>
-  <ul style="list-style-type: none; padding-left: 0;">
-    <li style="font-size: 18px; margin-bottom: 5px;">🗄️&nbsp Data Engineering</li>
-    <li style="font-size: 18px; margin-bottom: 5px;">📈&nbsp Data Science</li>
-    <li style="font-size: 18px; margin-bottom: 5px;">📚&nbsp Digital Humanities</li>
-  </ul>
 
   <div id="badges" style="text-align: center; margin: 20px 0;">
     <a href="https://www.linkedin.com/in/hyunwook-kim-01036822b/" style="display:inline-block; margin-right: 10px;">
