@@ -16,8 +16,6 @@
 
 <h3 style="font-size: 24px; margin: 10px 0;">Interests:</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li style="font-size: 18px; margin-bottom: 5px;">🗄️&nbsp;Network Engineering</li>
-  <li style="font-size: 18px; margin-bottom: 5px;">🔐&nbsp;Cyber Security </li>
   <li style="font-size: 18px; margin-bottom: 5px;">👨‍💻&nbsp;Software Engineering </li>
 </ul>
 
