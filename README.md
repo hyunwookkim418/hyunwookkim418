@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 
 <h2 style="font-size: 28px; margin: 0;"> <em> Hi, I'm Hyunwook Kim! 😄</h2>
-<p style="font-size: 18px; margin: 0;"><strong><em> Software Engineer at the <a style="color: #007BFF; text-decoration: none;">Hwashin America Corporation</a> </strong></p>
+<p style="font-size: 18px; margin: 0;"><strong><em> IT Specialist at the <a style="color: #007BFF; text-decoration: none;">Hwashin America Corporation</a> </strong></p>
   
   <div id="header" div align="center" style="text-align: center; margin: 20px 0;">
     <img src="https://media.giphy.com/media/PI3QGKFN6XZUCMMqJm/giphy.gif" width="300"/>
@@ -16,7 +16,8 @@
 
 <h3 style="font-size: 24px; margin: 10px 0;">Interests:</h3>
 <ul style="list-style-type: none; padding-left: 0;">
-  <li style="font-size: 18px; margin-bottom: 5px;">👨‍💻&nbsp;Software Engineering </li>
+  <li style="font-size: 18px; margin-bottom: 5px;">👨‍💻&nbsp;Automation </li>
+  <li style="font-size: 18px; margin-bottom: 5px;">👨‍💻&nbsp;Robotics </li>
   <li style="font-size: 18px; margin-bottom: 5px;">🧑🏻‍💻&nbsp;Deep Learning </li>
 </ul>
 
